@@ -14,11 +14,12 @@
 > Los usuarios de negocios nos piden que desarrollemos una serie de KPI para medir el estado de los procesos de negocio de la empresa. En este caso seremos los encargados de proporcionar las métricas y su obtención, para que dichos usuarios las implanten en sus Cuadro de mando (dashboards). 
 
 ### Actividad:
-En esta actividad se pide que se realicen las siguientes tareas: 
+> En esta actividad se pide que se realicen las siguientes tareas: 
 
 #### ✓ Definir cuatro KPI, definiendo con detalle la métrica que utiliza (es importante que pienses en indicadores que aportan valor a los procesos de negocio). 
 
-Ejemplos (puedes utilizar otros):  
+#### Ejemplos (puedes utilizar otros):  
+
 Venta mensual por vendedor: Este indicador aporta información acerca de las ventas de cada empleado.
 
 Máximo vendedor por mes: Este indicador aporta información acerca del vendedor que realizo el mayor número de ventas desgranado por mes.
