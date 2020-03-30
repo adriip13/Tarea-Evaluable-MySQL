@@ -18,12 +18,12 @@
 
 #### ✓ Definir cuatro KPI, definiendo con detalle la métrica que utiliza (es importante que pienses en indicadores que aportan valor a los procesos de negocio). 
 
-#### Ejemplos (puedes utilizar otros):  
+> Ejemplos (puedes utilizar otros):  
 
-Venta mensual por vendedor: Este indicador aporta información acerca de las ventas de cada empleado.
+>> Venta mensual por vendedor: Este indicador aporta información acerca de las ventas de cada empleado.
 
-Máximo vendedor por mes: Este indicador aporta información acerca del vendedor que realizo el mayor número de ventas desgranado por mes.
+>> Máximo vendedor por mes: Este indicador aporta información acerca del vendedor que realizo el mayor número de ventas desgranado por mes.
 
-Producto más vendido, productos para los cuales sacamos mayor rendimiento (PrecioCompra - PrecioVenta), …. 
+>>Producto más vendido, productos para los cuales sacamos mayor rendimiento (PrecioCompra - PrecioVenta), …. 
 
 #### ✓ Realizar las consultas (y subconsultas) que permitan obtener dicha información. 
